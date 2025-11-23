@@ -1,0 +1,11 @@
+Movie,Genre,Budget_Million,Revenue_Million,Rating
+Inception,Sci-Fi,160,829,8.8
+Avengers,Action,220,1519,8.0
+Titanic,Romance,200,2187,7.8
+The Dark Knight,Action,185,1005,9.0
+Interstellar,Sci-Fi,165,677,8.6
+Frozen,Animation,150,1280,7.4
+Toy Story,Animation,30,373,8.3
+Joker,Drama,55,1074,8.5
+Avatar,Sci-Fi,237,2847,7.9
+The Lion King,Animation,45,968,8.5
